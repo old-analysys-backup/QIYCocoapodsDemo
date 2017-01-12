@@ -1,0 +1,2 @@
+# EGMonitor_NO_IDFA_QIY
+爱奇艺NO_IDFA
